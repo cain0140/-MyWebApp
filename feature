@@ -1,2 +1,1 @@
  pendaftaran pengguna.
- 
